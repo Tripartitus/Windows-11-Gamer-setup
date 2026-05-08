@@ -45,18 +45,7 @@ This script transforms a fresh or bloated Windows 11 installation into a **high-
 
 ## 🚀 Quick Start (Recommended)
 
-### Option 1: One-Click Launcher (Easiest)
-
 1. Download the latest script + launcher from the [Releases](https://github.com/Tripartitus/Windows11-Gamer-Setup/releases) page
 2. Extract the files
 3. Double-click **`Run-GamerSetup.bat`**
 4. Accept the UAC prompt and let it run
-
-### Option 2: Manual Run
-
-1. Download `Windows11_Gamer_Setup.ps1`
-2. Right-click it → **Run with PowerShell**
-3. Or run this command in **PowerShell as Administrator**:
-
-```powershell
-Set-ExecutionPolicy Bypass -Scope Process -Force; & ".\Windows11_Gamer_Setup.ps1"
