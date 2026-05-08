@@ -45,7 +45,6 @@ This script transforms a fresh or bloated Windows 11 installation into a **high-
 
 ## 🚀 Quick Start (Recommended)
 
-1. Download the latest script + launcher from the [Releases](https://github.com/Tripartitus/Windows11-Gamer-Setup/releases) page
-2. Extract the files
-3. Double-click **`Run-GamerSetup.bat`**
-4. Accept the UAC prompt and let it run
+1. Download the latest application from the [Releases](https://github.com/Tripartitus/Windows11-Gamer-Setup/releases) page
+2. Double-click **`Win11GS.exe`**
+3. Accept the UAC prompt and let it run
