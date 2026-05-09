@@ -38,7 +38,7 @@ This script transforms a fresh or bloated Windows 11 installation into a **high-
   - All Visual C++ Redistributables (2005 → 2022, x86 + x64)
   - All .NET Runtimes (Framework 4.8 + Desktop Runtime 6, 7, 8)
   - DirectX End-User Runtime
-  - 7-Zip
+  - **7-Zip**
   - **Mozilla Firefox**
   - **WinRAR**
 - **Fully Automated** — No prompts, no decisions, just run it and walk away
