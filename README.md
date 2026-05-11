@@ -18,7 +18,7 @@ This script transforms a fresh or bloated Windows 11 installation into a **high-
 
 ### Key Features
 
-#### 🖥️ New in v1.0 GUI Edition
+#### 🖥️ New in v1.1 GUI Edition
 - **Modern Windows Forms GUI** — No more command-line! Interactive phase selection with checkboxes
 - **Real-time Progress Tracking** — Live status updates and progress bar as phases run
 - **Color-coded Logging** — Green for success, Yellow for info, Red for warnings — all visible in-app
@@ -92,7 +92,7 @@ This script transforms a fresh or bloated Windows 11 installation into a **high-
 
 ---
 
-## 📜 Changelog Highlights (v1.0 GUI)
+## 📜 Changelog Highlights (v1.1 GUI)
 
 - Complete rewrite from CLI to native Windows GUI (PowerShell Windows Forms)
 - Interactive phase selection with descriptions and checkboxes
