@@ -18,7 +18,7 @@ This script transforms a fresh or bloated Windows 11 installation into a **high-
 
 ### Key Features
 
-#### 🖥️ New in v1.1 GUI Edition
+#### 🖥️ Features
 - **Modern Windows Forms GUI** — No more command-line! Interactive phase selection with checkboxes
 - **Real-time Progress Tracking** — Live status updates and progress bar as phases run
 - **Color-coded Logging** — Green for success, Yellow for info, Red for warnings — all visible in-app
@@ -89,20 +89,6 @@ This script transforms a fresh or bloated Windows 11 installation into a **high-
 - Some phases (DISM, winget updates, dependency installs) can take **15–40 minutes** depending on your system and internet
 - Full log is always saved at `C:\GamerSetup_*.log` — perfect for troubleshooting or sharing
 - The GUI provides granular control — you can run individual phases or the full suite
-
----
-
-## 📜 Changelog Highlights (v1.1 GUI)
-
-- Complete rewrite from CLI to native Windows GUI (PowerShell Windows Forms)
-- Interactive phase selection with descriptions and checkboxes
-- Live progress bar + per-phase real-time logging with colors
-- Safety confirmation dialog before execution
-- Enhanced dependency installer covering full VC++ + .NET suite
-- Better error handling and professional UI polish
-- Self-contained single-file executable (no external scripts needed)
-
-**Previous versions (v0.x):** Original menu-driven PowerShell CLI script with all core optimization logic.
 
 ---
 
