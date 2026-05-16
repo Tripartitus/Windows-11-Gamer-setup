@@ -11,7 +11,7 @@ One script. Zero hassle. Maximum performance.
 [![GUI](https://img.shields.io/badge/GUI-Windows%20Forms-green)](https://learn.microsoft.com/en-us/powershell/scripting/windows-powershell/creating-gui-applications)
 
 ---
-![7888993720](https://cdn.corenexis.com/files/c/7888993720.png)
+<a href="https://cdn.corenexis.com/files/c/2946456720.png"><img src="https://cdn.corenexis.com/files/c/2946456720.png" alt="2946456720" border="0"></a>
 ## ✨ What It Does
 
 This script transforms a fresh or bloated Windows 11 installation into a **high-performance gaming machine** with a single click — now featuring a beautiful, interactive GUI!
